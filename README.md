@@ -1,5 +1,7 @@
 # ZonexSec-Grabber
 
+![alt text](https://i.imgur.com/qxaEKTX.png)
+
 ! This script is a web grabber that fetches URLs from the Zone-XSec website and extracts domain names from them.
 
  Usage :
