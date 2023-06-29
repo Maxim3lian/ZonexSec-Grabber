@@ -8,7 +8,7 @@ To run the script, simply execute the following command in your terminal :
 
  Requirements:
 
-- > This script requires Python 2 and the following standard library modules : requests & colorama .
+ This script requires Python 2 and the following standard library modules :
 - > Requests : pip install requests
 - > Colorama : pip install colorama
 - > Beautifulsoup : pip install beautifulsoup4
